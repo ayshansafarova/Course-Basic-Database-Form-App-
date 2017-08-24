@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\CourseDatabase.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\CourseDatabase.exe
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\CourseDatabase.pdb
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\EntityFramework.xml
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\obj\Debug\CourseDatabase.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\obj\Debug\CourseDatabase.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\obj\Debug\CourseDatabase.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\obj\Debug\CourseDatabase.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\obj\Debug\CourseDatabase.exe
+c:\users\admin\documents\visual studio 2017\Projects\CourseDatabase\CourseDatabase\obj\Debug\CourseDatabase.pdb
